@@ -1,3 +1,8 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Developer Studio generated include file.
+// Used by ldapauth.rc
+//
+/*
 // This file is part of UltraVNC
 // https://github.com/ultravnc/UltraVNC
 // https://uvnc.com/
@@ -7,12 +12,8 @@
 // SPDX-FileCopyrightText: Copyright (C) 2002-2025 UltraVNC Team Members. All Rights Reserved.
 // SPDX-FileCopyrightText: Copyright (C) 1999-2002 Vdacc-VNC & eSVNC Projects. All Rights Reserved.
 //
+*/
 
-
-//{{NO_DEPENDENCIES}}
-// Microsoft Developer Studio generated include file.
-// Used by ldapauth.rc
-//
 
 // Next default values for new objects
 // 
